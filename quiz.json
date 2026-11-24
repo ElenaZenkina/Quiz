@@ -1,0 +1,21 @@
+{
+    "1": {
+        "number": 1,
+        "left-hiero": "女",
+        "left-trans": "nǚ",
+        "right-hiero": "妈",
+        "right-trans": "mā",
+        "answers": ["妈", "姐", "妹", "姥"],
+        "correct": 1        
+    },
+
+    "2": {
+        "number": 2,
+        "left-hiero": "饣",
+        "left-trans": "shí",
+        "right-hiero": "饭",
+        "right-trans": "fàn",
+        "answers": ["饭", "饿", "饺", "饱"],
+        "correct": 2    
+    }
+}
